@@ -1,5 +1,6 @@
 .env
 .pio
+.vscode
 .tools
 app/.dart_tool/
 app/.flutter-plugins
